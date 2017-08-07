@@ -1,3 +1,26 @@
+#com-chilipeppr-widget-console-instance .dropdown-toggle,
+#com-chilipeppr-widget-gcodeviewer .dropdown-toggle,
+#com-chilipeppr-widget-tinyg .dropdown-toggle,
+#com-chilipeppr-widget-xyz .dropdown-toggle,
+#com-chilipeppr-3dviewer-controlpanel .dropdown-toggle,
+#com-chilipeppr-widget-serialport .dropdown-toggle,
+.zipwhip-recvtext-button,
+.autolevel-button,
+.macro-button,
+.jscut-button,
+.lasersolder-button,
+.eagle-button,
+.gpio-button,
+.shuttleexpress-button,
+.superTouchplate-button,
+.programmer-button,
+.svg2gcode-button,
+.font2gcode-button,
+.cayenn-button
+{
+    visibility: hidden;
+    height:0;
+}
 .workspace-dropdown li {
     padding: 6px 20px;
 }
